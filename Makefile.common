@@ -1,4 +1,4 @@
-# $NetBSD: Makefile.common,v 1.17 2022/09/25 12:24:54 schmonz Exp $
+# $NetBSD: Makefile.common,v 1.19 2022/12/24 23:10:04 wiz Exp $
 # used by textproc/csharp-xapian/Makefile
 # used by textproc/lua-xapian/Makefile
 # used by textproc/p5-Xapian/Makefile
